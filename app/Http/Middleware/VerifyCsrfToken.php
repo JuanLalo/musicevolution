@@ -11,5 +11,5 @@ class VerifyCsrfToken extends BaseVerifyCsrfToken
      *
      * @var array
      */
-    protected $except = [];
+    protected $except = ["https://redactivamexico.net", "redactivamexico.net", "www.redactivamexico.net"];
 }
