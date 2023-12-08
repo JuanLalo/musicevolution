@@ -1,0 +1,4 @@
+[11-Nov-2023 04:24:10 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$sms_or_email in /home1/music/public_html/themes/volcano/layout/modals/two-factor.html on line 57
+[11-Nov-2023 04:24:10 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$sms_or_email in /home1/music/public_html/themes/volcano/layout/modals/two-factor.html on line 60
+[11-Nov-2023 04:24:10 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$sms_or_email in /home1/music/public_html/themes/volcano/layout/modals/two-factor.html on line 72
+[11-Nov-2023 04:24:10 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$sms_or_email in /home1/music/public_html/themes/volcano/layout/modals/two-factor.html on line 75
